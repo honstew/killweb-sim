@@ -1,0 +1,5 @@
+# 统一用 LF 存储，避免 Windows 与 Unix 换行混入历史
+* text=auto eol=lf
+*.png binary
+*.pdf binary
+*.mat binary
